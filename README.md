@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @F-Vos
-- 👀 I’m interested in automation, containerization, cryptography, security  
-- 🌱 I’m currently learning Rust
-- 📫 hmu
+- 👋 Hi, I’m @F-Vos 
+- 👀 I’m interested in automation, containerization, cryptography, security.
+- 🌱 I’m currently learning <strike>Rust</strike> how not to break my Gentoo build.
+
+
 
 <!---
 F-Vos/F-Vos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
