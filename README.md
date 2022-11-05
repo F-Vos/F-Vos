@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @F-Vos 
-- 👀 I’m interested in automation, containerization, cryptography, security.
+- 👀 I’m interested in automation, containerization, cryptography and programming.
 - 🌱 I’m currently learning <strike>Rust</strike> how not to break my Gentoo build.
 
 
